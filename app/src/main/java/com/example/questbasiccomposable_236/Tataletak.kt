@@ -33,3 +33,8 @@ fun TataLetakColumn(modifier: Modifier) {
         Text(text = "Komponen4")
     }
 }
+
+@Composable
+fun TataLetakRow(modifier: Modifier) {
+
+}
