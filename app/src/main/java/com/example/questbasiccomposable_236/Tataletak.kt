@@ -99,3 +99,8 @@ fun TataLetakRowColumn(modifier: Modifier) {
         }
     }
 }
+
+@Composable
+fun TataLetakBoxColumnRow(modifier: Modifier) {
+
+}
