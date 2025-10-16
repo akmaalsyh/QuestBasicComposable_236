@@ -54,6 +54,9 @@ fun TataLetakBox(modifier: Modifier) {
             .fillMaxHeight(),
         contentAlignment = Alignment.Center
     ) {
-
+        Text(text = "Box 1")
+        Text(text = "Box 1-1")
+        Text(text = "Row 1")
+        Text(text = "Column 2")
     }
 }
